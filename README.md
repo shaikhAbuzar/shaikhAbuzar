@@ -2,7 +2,7 @@
 - 👀 I’m interested in solving real world problems
 - 🌱 I’m currently learning how to be a great ML Engineer
 - 💞️ I’m looking to collaborate on Research Projects, ML Ideas, Competitions.
-- 📫 How to reach me shaikhabuzar@gmail.com | 9167454817 | 8928783435
+- 📫 How to reach me shaikhabuzar@gmail.com | 9167454817
 - 😄 I am trying improve the readme, so please excuse me until then.
 
 <!---
